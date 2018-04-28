@@ -1,0 +1,6 @@
+1 > autosniper
+2 > scout
+3 > awp
+4 > revolver
+5 > autosniper
+6 > awp
